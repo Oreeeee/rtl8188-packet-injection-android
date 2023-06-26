@@ -11,7 +11,7 @@ I'm not responsible for any damage done by using this guide. You're doing this o
 - Source code of the kernel of your device, either official or unofficial
 - Toolchain for compiling the kernel
 - Patience
-- (Optional) A little big of programming skills
+- (Optional) A little bit of programming and Linux skills
 
 # Dependencies
 You're gonna need a few of dependencies, since recompiling the kernel is required. For Ubuntu-based distros this will be:
